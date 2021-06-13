@@ -1,4 +1,5 @@
-#NOTE:This creation of this game is focused on object oriented programming.'''
+#OOPS implementation
+#NOTE:The creation of this game is focused on object oriented programming.'''
 
 '''We are working in a grid system with a total of 20 rows and 20 columns.So, if position is (10, 10) 
 means we are in 11th column and the 11th row (because position count starts from 0)'''
