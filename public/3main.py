@@ -1,3 +1,5 @@
+# Normal implementation (without OOPS)
+
 import pygame
 import time
 import random
