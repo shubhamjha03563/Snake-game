@@ -8,6 +8,6 @@ RULE - If snake's head touches itself, then the game will end.
 Controls - Left, right, up and down arrow keys to control the snake.
 
 Tools used -
-The main language used is Python 3.
+Language used - Python 3.
 And GUI is provided with the help of Pygame
 (Pygame is a python module used to make 2D games or any other simple GUI.)
